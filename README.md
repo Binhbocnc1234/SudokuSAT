@@ -1,6 +1,6 @@
 # SudokuSAT
 
-Exact solving of generalized N x N Sudoku with SAT (PySAT), compared with CP (OR-Tools CP-SAT, CPLEX CP Optimizer) and ILP (Gurobi, CPLEX MIP). Forked from [Vanillinium/SudokuSAT](https://github.com/Vanillinium/SudokuSAT).
+Exact solving of generalized N x N Sudoku with SAT (PySAT), compared with CP (OR-Tools CP-SAT, CPLEX CP Optimizer) and ILP (Gurobi, CPLEX MIP).
 
 The paper is [paper/main.pdf](paper/main.pdf).
 
